@@ -1,0 +1,9 @@
+.sized-img {
+  width: 40%
+  height: auto;
+}
+@media screen and (max-width: 200px) {
+  .sized-img {
+    width: 100%;
+  }
+}
